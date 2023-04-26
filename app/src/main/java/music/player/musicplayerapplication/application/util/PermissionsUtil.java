@@ -1,4 +1,4 @@
-package com.example.musicplayerapplication.util;
+package music.player.musicplayerapplication.application.util;
 
 import android.Manifest;
 import android.app.Activity;
