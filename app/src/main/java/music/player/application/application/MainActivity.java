@@ -1,4 +1,4 @@
-package music.player.musicplayerapplication.application;
+package music.player.application.application;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
@@ -31,7 +31,7 @@ import androidx.core.app.ActivityCompat;
 
 import com.example.musicplayerapplication.R;
 
-import music.player.musicplayerapplication.application.util.PermissionsUtil;
+import music.player.application.application.util.PermissionsUtil;
 
 import java.io.File;
 import java.util.ArrayList;
