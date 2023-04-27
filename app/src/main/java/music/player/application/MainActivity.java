@@ -1,4 +1,4 @@
-package music.player.application.application;
+package music.player.application;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
@@ -31,11 +31,11 @@ import androidx.core.app.ActivityCompat;
 
 import com.example.musicplayerapplication.R;
 
-import music.player.application.application.util.PermissionsUtil;
-
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
+
+import music.player.application.util.PermissionsUtil;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
