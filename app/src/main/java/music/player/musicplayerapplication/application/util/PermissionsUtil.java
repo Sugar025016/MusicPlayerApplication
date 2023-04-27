@@ -17,6 +17,7 @@ public class PermissionsUtil {
             Manifest.permission.WRITE_EXTERNAL_STORAGE
     };
 
+
     public PermissionsUtil(Activity activity) {
         this.activity = activity;
     }
